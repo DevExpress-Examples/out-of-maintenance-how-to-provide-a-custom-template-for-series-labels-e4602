@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/CustomizeSeriesPointLabelsAppearance/MainPage.xaml) (VB: [MainPage.xaml](./VB/CustomizeSeriesPointLabelsAppearance/MainPage.xaml))
+<!-- default file list end -->
 # How to provide a custom template for series labels
 
 
